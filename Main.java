@@ -6,6 +6,8 @@ public class Main {
 
     }
 
-    private static long()
+    private static long newNumber(long num) {
+
+    }
 
 }
